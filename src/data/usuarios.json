@@ -2,7 +2,7 @@
   {
     "id": 1,
     "email": "lucas@gmail.com",
-    "senhaHash": "$2b$10$kgW8j7o8cUS7AW8qupBmBOLkP1Dse09QpFPGHCK1oo5ShYEeENOP2",
+    "senhaHash": "$2a$10$2oou1TSONePW6lMUFii4HOA9iAaERgwgzUVNc.nV4Rz757jxhQxRW",
     "perfil": "admin"
   }
 ]
