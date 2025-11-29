@@ -1,0 +1,15 @@
+médicos : {
+    criar Médico e listar todos médicos
+}
+
+pacientes : [
+    criar e listar todos
+]
+
+usuarios : {
+    criar e bsucar por email
+}
+
+consultas : {
+    criar, editar e cancelar consultas
+}

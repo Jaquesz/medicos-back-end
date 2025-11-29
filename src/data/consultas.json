@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "dataHora": "19/11/2025 12:00:00",
+    "status": "cancelada",
+    "medicoId": 1,
+    "pacienteId": 1
+  }
+]

@@ -42,15 +42,4 @@ export class MedicosService {
     return listaDeMedicos
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} medico`;
-  }
-
-  update(id: number, updateMedicoDto: UpdateMedicoDto) {
-    return `This action updates a #${id} medico`;
-  }
-
-  remove(id: number) {
-    return `This action removes a #${id} medico`;
-  }
 }

@@ -15,7 +15,7 @@ export class UsuariosController {
   }
 
   @Get('/:email')
-  findAll(@Param('email') email : string) {
+  buscaUsuarioPorEmail(@Param('email') email : string) {
     return this.usuariosService.buscarPorEmail(email);
   }
 
