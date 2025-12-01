@@ -2,7 +2,7 @@
   {
     "id": 1,
     "email": "lucas@gmail.com",
-    "senhaHash": "$2a$10$2oou1TSONePW6lMUFii4HOA9iAaERgwgzUVNc.nV4Rz757jxhQxRW",
+    "senhaHash": "$2a$10$36LadNtHpfUV6wChVuMmducRzXi4D8qRJ4unnRSEuvtN4DC7RiVKe",
     "perfil": "admin"
   },
   {
@@ -10,5 +10,11 @@
     "email": "usuario@exemplo.com",
     "senhaHash": "$2b$10$kAxsZ8uOxcVxZJN5.NrjnOQp5CL5mLCrzH.h9ytK7riDk/V91Vx6m",
     "perfil": "recepcao"
+  },
+  {
+    "id": 3,
+    "email": "lucas@gmail.com",
+    "senhaHash": "$2b$10$IcVilUqxFoTLE2qcFIKT1.fxHFNh4wtJJTubcP42WDiJCuWVUVmpa",
+    "perfil": "admin"
   }
 ]

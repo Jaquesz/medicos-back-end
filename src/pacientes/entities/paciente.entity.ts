@@ -1,13 +1,13 @@
 export class Paciente {
-    id : number;
-    nome : string;
-    cpf : string;
-    telefone : string;
+    id: number;
+    nome: string;
+    cpf: string;
+    telefone: string;
 
-    constructor(id, nome, cpf, telefone){
-        id = this.id
-        nome = this.nome
-        cpf = this.cpf
-        telefone = this.telefone
+    constructor(id, nome, cpf, telefone) {
+        this.id = id
+        this.nome = nome
+        this.cpf = cpf
+        this.telefone = telefone
     }
 }

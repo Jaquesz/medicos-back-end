@@ -21,8 +21,8 @@ export class PacientesService {
   }
 
   private criaId() {
-    const usuario = this.lerBancoJson()
-    const id = usuario.length + 1
+    const pacientes = this.lerBancoJson()
+    const id = pacientes.length + 1
     return id
   }
   async cadastrarPaciente(createPacienteDto: CreatePacienteDto) {
